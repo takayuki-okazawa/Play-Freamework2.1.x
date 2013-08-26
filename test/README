@@ -1,0 +1,14 @@
+##Test Application for Pkay Framework 2.1.x
+
+#####URL
+http://localhost:9000/@documentation/JavaHome
+
+#####Tips
+* **Test1**. Init Print
+* **Test2**. Print
+* **Test3**. Send String Data for Client
+* **Test4**. Get Parameter
+* **Test5**. Content-Type1
+* **Test6**. Content-Type2
+* **Test7**. Response Json
+* **Test8**. Request Json
